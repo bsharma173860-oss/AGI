@@ -1,0 +1,43 @@
+num,category,question,M1,M5,M6,final,memory_qt
+1,Physics,What is the speed of light and why is it a universal limit?,1.00,0.92,0.71,0.899,0.808
+2,Physics,How does quantum entanglement work?,0.80,0.75,0.85,0.795,0.835
+3,Physics,What is the Bekenstein bound?,1.00,0.85,1.00,0.948,0.858
+4,Physics,Explain the double-slit experiment.,0.90,0.85,0.90,0.882,0.877
+5,Physics,What is Hawking radiation?,1.00,0.85,0.92,0.927,0.895
+6,Physics,How does special relativity change our understanding of time?,1.00,0.92,0.91,0.950,0.909
+7,Physics,What is the Heisenberg uncertainty principle?,1.00,0.95,0.92,0.962,0.922
+8,Physics,How do black holes form?,0.90,0.85,0.95,0.895,0.933
+9,Physics,What is dark matter?,1.00,0.85,0.95,0.935,0.942
+10,Physics,Explain Landauer's principle.,1.00,0.92,0.92,0.952,0.950
+11,AI & AGI,What is the most important missing ingredient for AGI?,1.00,0.60,0.20,0.660,0.957
+12,AI & AGI,What is a world model in AI?,1.00,0.85,0.15,0.735,0.963
+13,AI & AGI,Why do large language models hallucinate?,1.00,0.85,0.85,0.910,0.968
+14,AI & AGI,What is the ARC-AGI benchmark testing for?,1.00,0.85,0.85,0.910,0.973
+15,AI & AGI,What is LeCun's JEPA architecture?,1.00,0.75,0.85,0.875,0.977
+16,AI & AGI,What is the difference between narrow AI and AGI?,1.00,0.85,1.00,0.948,0.980
+17,AI & AGI,How does reinforcement learning work?,1.00,0.85,0.00,0.698,0.808
+18,AI & AGI,What is the alignment problem in AI?,1.00,0.85,0.80,0.897,0.835
+19,AI & AGI,Can a simulation share physics laws with its host universe?,0.90,0.75,0.80,0.823,0.858
+20,AI & AGI,What is integrated information theory?,1.00,0.80,0.80,0.880,0.878
+21,Consciousness,What is consciousness?,1.00,0.75,0.85,0.875,0.895
+22,Consciousness,What is Tononi's phi metric?,0.00,0.00,0.00,0.000,0.895
+23,Consciousness,Is consciousness an emergent property?,1.00,0.75,0.95,0.900,0.909
+24,Consciousness,What is the hard problem of consciousness?,1.00,0.85,0.95,0.935,0.922
+25,Consciousness,Do animals have consciousness?,1.00,0.75,0.85,0.888,0.933
+26,Consciousness,Can an AI be conscious?,1.00,0.75,0.85,0.888,0.942
+27,Consciousness,What is the global workspace theory?,1.00,0.85,0.95,0.935,0.950
+28,Consciousness,How does dreaming relate to memory consolidation?,0.90,0.85,0.85,0.876,0.957
+29,Consciousness,What is the relationship between consciousness and information?,0.85,0.65,0.80,0.772,0.963
+30,Consciousness,What is the difference between awareness and consciousness?,1.00,0.75,0.85,0.888,0.968
+31,Mathematics,What is entropy in information theory?,1.00,0.95,0.00,0.733,0.973
+32,Mathematics,Explain KL divergence in plain English.,1.00,0.85,0.00,0.698,0.977
+33,Mathematics,What is Bayes theorem and why does it matter?,1.00,0.95,0.85,0.930,0.980
+34,Mathematics,What is mutual information?,1.00,0.95,0.85,0.948,0.983
+35,Mathematics,What is a vector embedding?,1.00,0.85,1.00,0.948,0.985
+36,Mathematics,What is an exponential decay function?,1.00,0.92,0.85,0.934,0.987
+37,Simulation,What is Bostrom's simulation hypothesis?,1.00,0.85,0.00,0.698,0.989
+38,Simulation,Could the universe be a simulation?,0.90,0.75,0.90,0.848,0.990
+39,Simulation,What would bidirectional physics propagation mean?,0.90,0.75,0.10,0.648,0.992
+40,Simulation,What is the second law of infodynamics?,0.30,0.25,0.30,0.282,0.993
+41,Simulation,What is Landauer's principle and its implications?,1.00,0.85,0.92,0.927,0.994
+42,Simulation,What is the relationship between entropy and information?,1.00,0.85,0.85,0.910,0.995
