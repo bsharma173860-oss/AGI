@@ -1,0 +1,36 @@
+{
+  "state": {
+    "curiosity": 0.7,
+    "confidence": 1.0,
+    "concern": 0.7,
+    "excitement": 0.7,
+    "trust": 0.4,
+    "frustration": 0.30000000000000004
+  },
+  "history": [
+    {
+      "event": "discovery",
+      "mood": 0.337,
+      "dominant": "confidence",
+      "time": "2026-05-14T08:27:54.928193"
+    },
+    {
+      "event": "spoke",
+      "mood": 0.362,
+      "dominant": "confidence",
+      "time": "2026-05-14T08:30:36.662666"
+    },
+    {
+      "event": "spoke",
+      "mood": 0.375,
+      "dominant": "confidence",
+      "time": "2026-05-14T10:46:58.235700"
+    },
+    {
+      "event": "discovery",
+      "mood": 0.45,
+      "dominant": "confidence",
+      "time": "2026-05-14T11:36:48.799818"
+    }
+  ]
+}
